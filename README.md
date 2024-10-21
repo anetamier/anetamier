@@ -19,7 +19,7 @@
 
 ### :computer: List of technologies
 
-My main programming languages is Python. I know classical machine learning methods (linear regression, gradient boosting, SVM, naive Bayesian e.g.). I like to solve interesting problems, including algorithmic ones.
+My main programming languages is Python. I learn classical machine learning methods. I like to solve interesting problems, including algorithmic ones.
 
 You can see set of mostly used technologies and libraries below:
 
